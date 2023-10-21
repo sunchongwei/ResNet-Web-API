@@ -13,6 +13,16 @@ ResNet101预训练模型接受输入三通道输入，神经网络层数为101�
 ## 1.2API效果
 URL: http://localhost:8000/api/preidct
 
+请求方式: POST
+
+参数: form-data, image: 图片
+返回格式：
+{
+    precent: 预测精准率,
+    result: 预测结果
+}
+![图片](./photo/api_result.png) 
+
 ## 2.快速开始
 环境要求
 1. python3.6以上
