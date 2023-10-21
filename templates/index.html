@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ResNet图像识别</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        #preview {
+            min-width: 500px;
+            max-width: 500px;
+            margin: 20px auto;
+        }
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>ResNet图像识别</h1>
+    <p>ResNet的图像识别算法,可识别1000种不同种类物体。</p>
+
+    <input type="file" id="upload" accept="image/*">
+
+    <div id="preview"></div>
+    <h2>识别结果</h2>
+    <div id="result"></div>
+
+    <script>
+        const uploadInput = document.querySelector('#upload');
+        const previewDiv = document.querySelector('#preview');
+        const resultDiv = document.querySelector('#result');
+
+        uploadInput.addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            const reader = new FileReader();
+
+            reader.onload = function(e) {
+                const image = document.createElement('img');
+                image.src = e.target.result;
+                image.style.maxWidth = '100%';
+                previewDiv.innerHTML = '';
+                previewDiv.appendChild(image);
+
+                const formData = new FormData();
+                formData.append('image', file);
+                resultDiv.innerHTML = '......正在识别中,请等待......';
+
+                fetch('/api/predict', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    resultDiv.innerHTML = '识别结果: ' + data.result + ', 概率：'+ data.precent + '%';
+                })
+                .catch(error => {
+                    resultDiv.innerHTML = '发生错误: ' + error.message;
+                });
+            };
+
+            reader.readAsDataURL(file);
+        });
+    </script>
+</body>
+</html>

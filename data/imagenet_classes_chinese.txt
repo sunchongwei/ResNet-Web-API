@@ -1,0 +1,1000 @@
+tench, Tinca tinca-丁鳅, 丁鳅
+goldfish, Carassius auratus-金鱼、鲫鱼
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias-大白鲨、白鲨、食人鲨、食人鲨、Carcharodon carcharias
+tiger shark, Galeocerdo cuvieri-虎鲨、Galeocerdo cuvieri
+hammerhead, hammerhead shark-双髻鲨，双髻鲨
+electric ray, crampfish, numbfish, torpedo-电鳐、钳鱼、麻鱼、鱼雷
+stingray-黄貂鱼
+cock-公鸡
+hen-母鸡
+ostrich, Struthio camelus-鸵鸟、鸵鸟
+brambling, Fringilla montifringilla-燕雀 (Fringilla montifringilla)
+goldfinch, Carduelis carduelis-金翅雀, 金翅雀, 金翅雀
+house finch, linnet, Carpodacus mexicanus-家雀、红雀、Carpodacus mexicanus
+junco, snowbird-琼科、雪鸟
+indigo bunting, indigo finch, indigo bird, Passerina cyanea-靛蓝鹀、靛蓝雀、靛蓝鸟、雀鸟
+robin, American robin, Turdus migratorius-知更鸟、美国知更鸟、Turdus migratorius
+bulbul-鹎
+jay-杰伊
+magpie-鹊
+chickadee-山雀
+water ouzel, dipper-水 ouzel, 北斗七星
+kite-风筝
+bald eagle, American eagle, Haliaeetus leucocephalus-秃鹰、美洲雕、Haliaeetus leucocephalus
+vulture-秃鹫
+great grey owl, great gray owl, Strix nebulosa-大灰鸮、大灰鸮、Strix nebulosa
+European fire salamander, Salamandra salamandra-欧洲线蝾螈、蝾螈
+common newt, Triturus vulgaris-普通蝾螈, Triturus vulgaris
+eft-埃夫特
+spotted salamander, Ambystoma maculatum-斑点蝾螈, Ambystoma maculatum
+axolotl, mud puppy, Ambystoma mexicanum-蝾螈, 泥小狗, Ambystoma mexicanum
+bullfrog, Rana catesbeiana-牛蛙, Rana catesbeiana
+tree frog, tree-frog-树蛙，树蛙
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui-尾蛙、钟蟾、肋蟾、尾蟾、Ascaphus trui
+loggerhead, loggerhead turtle, Caretta caretta-红蠵龟、红蠵龟、Caretta caretta
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea-棱皮龟、棱皮龟、革皮龟、Dermochelys coriacea
+mud turtle-泥龟
+terrapin-水龟
+box turtle, box tortoise-箱龟，箱龟
+banded gecko-带状壁虎
+common iguana, iguana, Iguana iguana-普通鬣蜥、鬣蜥、鬣蜥
+American chameleon, anole, Anolis carolinensis-美洲变色龙、变色龙、Anolis carolinensis
+whiptail, whiptail lizard-鞭尾蜥蜴, 鞭尾蜥蜴
+agama-宗教
+frilled lizard, Chlamydosaurus kingi-褶边蜥蜴，金吉衣藻
+alligator lizard-鳄鱼蜥蜴
+Gila monster, Heloderma suspectum-吉拉毒蜥，疑似毒蜥
+green lizard, Lacerta viridis-绿蜥蜴，Lacerta viridis
+African chameleon, Chamaeleo chamaeleon-非洲变色龙、Chamaeleo chamaeleon
+Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis-科莫多巨蜥、科莫多蜥蜴、龙蜥蜴、巨蜥蜴、Varanus komodoensis
+African crocodile, Nile crocodile, Crocodylus niloticus-非洲鳄鱼、尼罗河鳄鱼、尼罗鳄
+American alligator, Alligator mississipiensis-美洲短吻鳄、密西西比短吻鳄
+triceratops-三角龙
+thunder snake, worm snake, Carphophis amoenus-雷蛇、虫蛇、Carphophis amoenus
+ringneck snake, ring-necked snake, ring snake-环颈蛇、环颈蛇、环蛇
+hognose snake, puff adder, sand viper-猪鼻蛇、粉扑蛇、沙毒蛇
+green snake, grass snake-青蛇、草蛇
+king snake, kingsnake-王蛇、王蛇
+garter snake, grass snake-束带蛇、草蛇
+water snake-水蛇
+vine snake-藤蛇
+night snake, Hypsiglena torquata-夜蛇 Hypsiglena torquata
+boa constrictor, Constrictor constrictor-蟒蛇、大蟒蛇
+rock python, rock snake, Python sebae-岩蟒、岩蛇、蟒蛇
+Indian cobra, Naja naja-印度眼镜蛇、眼镜蛇
+green mamba-绿曼巴
+sea snake-海蛇
+horned viper, cerastes, sand viper, horned asp, Cerastes cornutus-角毒蛇、角毒蛇、沙毒蛇、角蝰、Cerastes cornutus
+diamondback, diamondback rattlesnake, Crotalus adamanteus-响尾蛇、响尾蛇、Crotalus adamanteus
+sidewinder, horned rattlesnake, Crotalus cerastes-响尾蛇、角响尾蛇、Crotalus cerastes
+trilobite-三叶虫
+harvestman, daddy longlegs, Phalangium opilio-收割者、长腿爸爸、Phalangium opilio
+scorpion-蝎
+black and gold garden spider, Argiope aurantia-黑色和金色花园蜘蛛 Argiope aurantia
+barn spider, Araneus cavaticus-谷仓蜘蛛，Araneus cavaticus
+garden spider, Aranea diademata-花园蜘蛛 Aranea diademata
+black widow, Latrodectus mactans-黑寡妇，Latrodectus mactans
+tarantula-狼蛛
+wolf spider, hunting spider-狼蛛、狩猎蜘蛛
+tick-打钩
+centipede-蜈
+black grouse-黑松鸡
+ptarmigan-雷鸟
+ruffed grouse, partridge, Bonasa umbellus-颈松鸡、鹧鸪、Bonasa umbellus
+prairie chicken, prairie grouse, prairie fowl-草原鸡、草原鸡、草原鸡
+peacock-孔雀
+quail-鹌鹑
+partridge-鹧鸪
+African grey, African gray, Psittacus erithacus-非洲灰鹦鹉、非洲灰鹦鹉、Psittacus erithacus
+macaw-金刚鹦鹉
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita-硫凤头鹦鹉、Kakatoe galerita、Cacatua galerita
+lorikeet-澳洲鹦鹉
+coucal-古卡尔
+bee eater-食蜂鸟
+hornbill-犀鸟
+hummingbird-蜂鸟
+jacamar-雅卡马尔
+toucan-toucan
+drake-德雷克
+red-breasted merganser, Mergus serrator-红胸秋沙鸭、秋沙鸭
+goose-鹅
+black swan, Cygnus atratus-黑天鹅、黑天鹅
+tusker-獠牙
+echidna, spiny anteater, anteater-针鼹, 刺食蚁兽, 食蚁兽
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus-鸭嘴兽, 鸭嘴兽, 鸭嘴兽, 鸭嘴兽, Ornithorhynchus anatinus
+wallaby, brush kangaroo-小袋鼠、刷袋鼠
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus-考拉、考拉熊、袋鼠熊、本地熊、Phascolarctos cinereus
+wombat-袋熊
+jellyfish-海蜇
+sea anemone, anemone-海葵、海葵
+brain coral-脑珊瑚
+flatworm, platyhelminth-扁虫、扁形虫
+nematode, nematode worm, roundworm-线虫, 线虫, 蛔虫
+conch-海螺
+snail-蜗牛
+slug-蛞蝓
+sea slug, nudibranch-海蛞蝓、裸鳃类动物
+chiton, coat-of-mail shell, sea cradle, polyplacophore-石鳖、锁甲壳、海摇篮、多板纲
+chambered nautilus, pearly nautilus, nautilus-有腔鹦鹉螺、珍珠鹦鹉螺、鹦鹉螺
+Dungeness crab, Cancer magister-珍宝蟹，癌症魔导师
+rock crab, Cancer irroratus-岩蟹，巨蟹
+fiddler crab-招潮蟹
+king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica-帝王蟹、阿拉斯加蟹、阿拉斯加帝王蟹、阿拉斯加帝王蟹、Paralithodes camtschatica
+American lobster, Northern lobster, Maine lobster, Homarus americanus-美国龙虾、北方龙虾、缅因龙虾、美洲白鹤
+spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish-大龙虾、龙虾、岩龙虾、小龙虾、小龙虾、海螯虾
+crayfish, crawfish, crawdad, crawdaddy-小龙虾、小龙虾、小龙虾、小龙虾
+hermit crab-寄居蟹
+isopod-等足类动物
+white stork, Ciconia ciconia-白鹳、白鹳
+black stork, Ciconia nigra-黑鹳、黑鹳
+spoonbill-琵鹭
+flamingo-火烈鸟
+little blue heron, Egretta caerulea-小蓝鹭，Egretta caerulea
+American egret, great white heron, Egretta albus-美洲白鹭、大白鹭、白鹭
+bittern-卤水
+crane-起重机
+limpkin, Aramus pictus-林普金，彩绘铜
+European gallinule, Porphyrio porphyrio-欧洲母鸡，Porphyrio porphyrio
+American coot, marsh hen, mud hen, water hen, Fulica americana-美国白顶鸡、沼泽母鸡、泥母鸡、水母鸡、Fulica americana
+bustard-鸨
+ruddy turnstone, Arenaria interpres-红润的特恩斯通，阿纳纳利亚翻译
+red-backed sandpiper, dunlin, Erolia alpina-红背鹬、邓林、Erolia alpina
+redshank, Tringa totanus-红脚鹬 (Tringa totanus)
+dowitcher-巫师
+oystercatcher, oyster catcher-蛎鹬, 蛎鹬
+pelican-鹈
+king penguin, Aptenodytes patagonica-王企鹅，Aptenodytes patagonica
+albatross, mollymawk-信天翁、莫利莫克
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus-灰鲸、灰鲸、魔鬼鱼、Eschrichtius 座头鲸、EschrichtiusRobustus
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca-虎鲸, 虎鲸, 虎鲸, 鲸鱼, 海狼, Orcinus orca
+dugong, Dugong dugon-血，血，血
+sea lion-海狮
+Chihuahua-奇瓦瓦州
+Japanese spaniel-日本西班牙猎犬
+Maltese dog, Maltese terrier, Maltese-马耳他犬、马耳他梗、马耳他
+Pekinese, Pekingese, Peke-北京犬、北京犬、北京犬
+Shih-Tzu-西施犬
+Blenheim spaniel-布伦海姆西班牙猎犬
+papillon-蝴蝶犬
+toy terrier-玩具梗犬
+Rhodesian ridgeback-罗得西亚脊背犬
+Afghan hound, Afghan-阿富汗猎犬，阿富汗
+basset, basset hound-巴吉度犬、巴吉度猎犬
+beagle-比格犬
+bloodhound, sleuthhound-寻血猎犬、侦探猎犬
+bluetick-蓝勾
+black-and-tan coonhound-黑褐色猎浣熊犬
+Walker hound, Walker foxhound-沃克猎犬、沃克猎狐犬
+English foxhound-英国猎狐犬
+redbone-红骨
+borzoi, Russian wolfhound-猎狼犬，俄罗斯猎狼犬
+Irish wolfhound-爱尔兰猎狼犬
+Italian greyhound-意大利灰狗
+whippet-惠比特犬
+Ibizan hound, Ibizan Podenco-伊维萨猎犬、伊维萨波登科
+Norwegian elkhound, elkhound-挪威猎鹿犬、猎鹿犬
+otterhound, otter hound-水獭猎犬，水獭猎犬
+Saluki, gazelle hound-萨路基、瞪羚猎犬
+Scottish deerhound, deerhound-苏格兰猎鹿犬、猎鹿犬
+Weimaraner-威玛猎犬
+Staffordshire bullterrier, Staffordshire bull terrier-斯塔福郡斗牛犬、斯塔福郡斗牛犬
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier-美国斯塔福郡梗犬、斯塔福郡梗犬、美国斗牛犬、斗牛犬
+Bedlington terrier-贝灵顿梗
+Border terrier-边境梗犬
+Kerry blue terrier-凯利蓝梗
+Irish terrier-爱尔兰梗
+Norfolk terrier-诺福克梗
+Norwich terrier-诺维奇梗
+Yorkshire terrier-约克夏犬
+wire-haired fox terrier-刚毛猎狐梗
+Lakeland terrier-莱克兰梗
+Sealyham terrier, Sealyham-西利汉姆梗犬, 西利汉姆梗
+Airedale, Airedale terrier-万年梗、万年梗
+cairn, cairn terrier-凯恩梗，凯恩梗
+Australian terrier-澳大利亚梗
+Dandie Dinmont, Dandie Dinmont terrier-丹迪丁蒙梗犬，丹迪丁蒙梗犬
+Boston bull, Boston terrier-波士顿公牛、波士顿梗犬
+miniature schnauzer-迷你雪纳瑞
+giant schnauzer-巨型雪纳瑞
+standard schnauzer-标准雪纳瑞
+Scotch terrier, Scottish terrier, Scottie-苏格兰梗、苏格兰梗、斯科蒂
+Tibetan terrier, chrysanthemum dog-西藏梗、菊花狗
+silky terrier, Sydney silky-丝毛梗、悉尼丝毛梗
+soft-coated wheaten terrier-软毛小麦梗
+West Highland white terrier-西高地白梗
+Lhasa, Lhasa apso-拉萨, 拉萨阿普索
+flat-coated retriever-平毛猎犬
+curly-coated retriever-卷毛猎犬
+golden retriever-金毛猎犬
+Labrador retriever-拉布拉多猎犬
+Chesapeake Bay retriever-切萨皮克湾猎犬
+German short-haired pointer-德国短毛指示犬
+vizsla, Hungarian pointer-vizsla，匈牙利指针
+English setter-英国二传手
+Irish setter, red setter-爱尔兰塞特犬、红塞特犬
+Gordon setter-戈登赛特犬
+Brittany spaniel-布列塔尼猎犬
+clumber, clumber spaniel-克伦伯西班牙猎犬
+English springer, English springer spaniel-英国史宾格犬、英国史宾格犬
+Welsh springer spaniel-威尔士史宾格犬
+cocker spaniel, English cocker spaniel, cocker-可卡犬、英国可卡犬、可卡犬
+Sussex spaniel-苏塞克斯西班牙猎犬
+Irish water spaniel-爱尔兰水猎犬
+kuvasz-狗
+schipperke-希佩尔克
+groenendael-格罗嫩代尔
+malinois-马里诺犬
+briard-伯瑞德
+kelpie-水鬼
+komondor-准将
+Old English sheepdog, bobtail-古老的英国牧羊犬，短尾犬
+Shetland sheepdog, Shetland sheep dog, Shetland-喜乐蒂牧羊犬、喜乐蒂牧羊犬、设得兰群岛牧羊犬
+collie-牧羊犬
+Border collie-边境牧羊犬
+Bouvier des Flandres, Bouviers des Flandres-弗兰德斯布维耶, 弗兰德斯布维耶
+Rottweiler-罗威纳犬
+German shepherd, German shepherd dog, German police dog, alsatian-德国牧羊犬、德国牧羊犬、德国警犬、阿尔萨斯犬
+Doberman, Doberman pinscher-杜宾犬、杜宾犬
+miniature pinscher-迷你杜宾犬
+Greater Swiss Mountain dog-大瑞士山地犬
+Bernese mountain dog-伯恩山犬
+Appenzeller-阿彭策勒
+EntleBucher-恩特尔·布赫
+boxer-拳击手
+bull mastiff-公牛獒犬
+Tibetan mastiff-藏獒
+French bulldog-法国斗牛犬
+Great Dane-大丹犬
+Saint Bernard, St Bernard-圣伯纳犬、圣伯纳犬
+Eskimo dog, husky-爱斯基摩犬、哈士奇
+malamute, malemute, Alaskan malamute-阿拉斯加雪橇犬、马勒穆特、阿拉斯加雪橇犬
+Siberian husky-西伯利亚雪橇犬
+dalmatian, coach dog, carriage dog-达尔马提亚, 教练狗, 马车狗
+affenpinscher, monkey pinscher, monkey dog-affenpinscher, 猴子杜宾犬, 猴狗
+basenji-巴森吉
+pug, pug-dog-哈巴狗，哈巴狗
+Leonberg-莱昂伯格
+Newfoundland, Newfoundland dog-纽芬兰犬、纽芬兰犬
+Great Pyrenees-大比利牛斯山脉
+Samoyed, Samoyede-萨摩耶、萨摩耶
+Pomeranian-博美犬
+chow, chow chow-松狮，松狮
+keeshond-荷兰毛狮犬
+Brabancon griffon-布拉班肯狮鹫
+Pembroke, Pembroke Welsh corgi-彭布罗克，彭布罗克威尔士柯基犬
+Cardigan, Cardigan Welsh corgi-卡迪根，卡迪根威尔士柯基犬
+toy poodle-玩具贵宾犬
+miniature poodle-迷你贵宾犬
+standard poodle-标准贵宾犬
+Mexican hairless-墨西哥无毛
+timber wolf, grey wolf, gray wolf, Canis lupus-木狼、灰狼、灰狼、犬红斑狼疮
+white wolf, Arctic wolf, Canis lupus tundrarum-白狼、北极狼、Canis lupus tundrarum
+red wolf, maned wolf, Canis rufus, Canis niger-红狼、鬃狼、红狼、黑犬
+coyote, prairie wolf, brush wolf, Canis latrans-郊狼、草原狼、灌丛狼、Canis latrans
+dingo, warrigal, warragal, Canis dingo-野狗, 沃里格尔, 沃拉格尔, 野狗
+dhole, Cuon alpinus-豺 (Cuon alpinus)
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus-非洲猎犬、鬣狗、海角猎犬、利卡翁图斯犬
+hyena, hyaena-鬣狗, 鬣狗
+red fox, Vulpes vulpes-红狐、狐狸
+kit fox, Vulpes macrotis-套件狐狸
+Arctic fox, white fox, Alopex lagopus-北极狐、白狐、蓝狐
+grey fox, gray fox, Urocyon cinereoargenteus-灰狐、灰狐、Urocyon cinereoargenteus
+tabby, tabby cat-虎斑猫，虎斑猫
+tiger cat-虎猫
+Persian cat-波斯猫
+Siamese cat, Siamese-暹罗猫，暹罗猫
+Egyptian cat-埃及猫
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor-美洲狮、美洲狮、catmount、山狮、画家、黑豹、Felis concolor
+lynx, catamount-山猫、猫科动物
+leopard, Panthera pardus-豹，Panthera pardus
+snow leopard, ounce, Panthera uncia-雪豹，盎司，Panthera uncia
+jaguar, panther, Panthera onca, Felis onca-美洲虎, 黑豹, Panthera onca, Felis onca
+lion, king of beasts, Panthera leo-狮子，万兽之王，Panthera leo
+tiger, Panthera tigris-虎，虎
+cheetah, chetah, Acinonyx jubatus-猎豹, 猎豹, Acinonyx jubatus
+brown bear, bruin, Ursus arctos-棕熊, 棕熊, 熊
+American black bear, black bear, Ursus americanus, Euarctos americanus-美洲黑熊、黑熊、Ursus americanus、Euarctos americanus
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus-冰熊、北极熊、海熊、海熊
+sloth bear, Melursus ursinus, Ursus ursinus-懒熊、Melursus ursinus、Ursus ursinus
+mongoose-猫鼬
+meerkat, mierkat-猫鼬，猫鼬
+tiger beetle-虎甲虫
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle-瓢虫, 瓢虫, 瓢虫, 瓢虫, 瓢虫甲虫
+ground beetle, carabid beetle-地甲虫、步甲甲虫
+long-horned beetle, longicorn, longicorn beetle-天牛、天牛、天牛
+leaf beetle, chrysomelid-叶甲虫、叶甲
+dung beetle-粪甲虫
+rhinoceros beetle-犀牛甲虫
+weevil-象鼻虫
+fly-飞
+bee-蜜蜂
+ant, emmet, pismire-蚂蚁、埃米特、皮斯米雷
+grasshopper, hopper-蚱蜢, 漏斗
+cricket-蟋蟀
+walking stick, walkingstick, stick insect-手杖, 手杖, 竹节虫
+cockroach, roach-蟑螂，蟑螂
+mantis, mantid-螳螂, 螳螂
+cicada, cicala-蝉，蝉
+leafhopper-叶蝉
+lacewing, lacewing fly-草蛉，草蛉蝇
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk-蜻蜓、补补针、魔鬼补补针、缝纫针、蛇喂食器、蛇医生、蚊鹰、斯基特鹰
+damselfly-豆娘
+admiral-上将
+ringlet, ringlet butterfly-小环，小环蝴蝶
+monarch, monarch butterfly, milkweed butterfly, Danaus plexippus-帝王蝶、帝王蝶、马利筋蝴蝶、Danaus plexippus
+cabbage butterfly-菜粉蝶
+sulphur butterfly, sulfur butterfly-硫磺蝴蝶、硫磺蝴蝶
+lycaenid, lycaenid butterfly-狼蝴蝶，狼蝴蝶
+starfish, sea star-海星，海星
+sea urchin-海胆
+sea cucumber, holothurian-海参、海参
+wood rabbit, cottontail, cottontail rabbit-木兔、棉尾兔、棉尾兔
+hare-野兔
+Angora, Angora rabbit-安哥拉兔、安哥拉兔
+hamster-仓鼠
+porcupine, hedgehog-豪猪、刺猬
+fox squirrel, eastern fox squirrel, Sciurus niger-狐狸松鼠、东方狐松鼠、黑松鼠
+marmot-土拨鼠
+beaver-海狸
+guinea pig, Cavia cobaya-豚鼠，豚鼠豚鼠
+sorrel-酢浆草
+zebra-斑马
+hog, pig, grunter, squealer, Sus scrofa-猪、猪、咕噜声、尖叫声、母猪
+wild boar, boar, Sus scrofa-野猪、野猪、Sus scrofa
+warthog-疣猪
+hippopotamus, hippo, river horse, Hippopotamus amphibius-河马, 河马, 河马, 两栖河马
+ox-牛
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis-水牛、水牛、亚洲水牛、Bubalus bubalis
+bison-野牛
+ram, tup-公羊，公羊
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis-大角羊、大角羊、西马龙、落基山大角羊、落基山羊、Ovis canadensis
+ibex, Capra ibex-羱羊、卡普拉羱羊
+hartebeest-最亲爱的
+impala, Aepyceros melampus-黑斑羚、黑斑羚
+gazelle-羚羊
+Arabian camel, dromedary, Camelus dromedarius-阿拉伯骆驼、单峰骆驼、Camelus dromedarius
+llama-骆驼
+weasel-黄鼠狼
+mink-貂
+polecat, fitch, foulmart, foumart, Mustela putorius-鸡貂, 菲奇, 臭鼬, foumart, Mustela putorius
+black-footed ferret, ferret, Mustela nigripes-黑足雪貂、雪貂、Mustela nigripes
+otter-獭
+skunk, polecat, wood pussy-臭鼬, 鸡貂, 木猫
+badger-獾
+armadillo-犰狳
+three-toed sloth, ai, Bradypus tridactylus-三趾树懒, ai, Bradypus tridactylus
+orangutan, orang, orangutang, Pongo pygmaeus-红毛猩猩、红毛猩猩、红毛猩猩、Pongo pygmaeus
+gorilla, Gorilla gorilla-大猩猩，大猩猩，大猩猩
+chimpanzee, chimp, Pan troglodytes-黑猩猩、黑猩猩、泛穴居人
+gibbon, Hylobates lar-长臂猿、长臂猿
+siamang, Hylobates syndactylus, Symphalangus syndactylus-合趾猿、合趾长臂猿、合指合趾猿
+guenon, guenon monkey-长尾猴，长尾猴
+patas, hussar monkey, Erythrocebus patas-patas, 骠骑兵猴, Erythrocebus patas
+baboon-狒狒
+macaque-猕猴
+langur-长的
+colobus, colobus monkey-疣猴、疣猴
+proboscis monkey, Nasalis larvatus-长鼻猴，鼻猴幼体
+marmoset-狨猴
+capuchin, ringtail, Cebus capucinus-卷尾猴, 环尾猴, Cebus capucinus
+howler monkey, howler-吼猴、吼猴
+titi, titi monkey-直到，直到猴子
+spider monkey, Ateles geoffroyi-蜘蛛猴 Ateles geoffroyi
+squirrel monkey, Saimiri sciureus-松鼠猴、Saimiri sciureus
+Madagascar cat, ring-tailed lemur, Lemur catta-马达加斯加猫、环尾狐猴、狐猴catta
+indri, indris, Indri indri, Indri brevicaudatus-因德里、因德里、因德里、因德里 brevicaatus
+Indian elephant, Elephas maximus-印度象，Elephas maximus
+African elephant, Loxodonta africana-非洲象，Loxodonta africana
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens-小熊猫, 小熊猫, 熊猫, 熊猫, 猫熊, 闪亮的 Ailurus
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca-大熊猫, 熊猫, 熊猫熊, 浣熊, Ailuropoda melanoleuca
+barracouta, snoek-梭子鱼、梭子鱼
+eel-鳗鱼
+coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch-银鲑鱼、银鲑鱼、银鲑鱼、蓝杰克鱼、银鲑鱼、Oncorhynchus kisutch
+rock beauty, Holocanthus tricolor-岩美人，三色海棠
+anemone fish-海葵鱼
+sturgeon-鲟
+gar, garfish, garpike, billfish, Lepisosteus osseus-鳝鱼、长嘴鱼、garpike、旗鱼、Lepisosteus osseus
+lionfish-狮子鱼
+puffer, pufferfish, blowfish, globefish-河豚、河豚、河豚、河豚
+abacus-算盘
+abaya-长袍
+academic gown, academic robe, judge's robe-学术袍、学术袍、法官袍
+accordion, piano accordion, squeeze box-手风琴、钢琴手风琴、挤压盒
+acoustic guitar-原声吉他
+aircraft carrier, carrier, flattop, attack aircraft carrier-航空母舰, 航空母舰, 平顶航空母舰, 攻击航空母舰
+airliner-客机
+airship, dirigible-飞艇, 飞艇
+altar-坛
+ambulance-救护车
+amphibian, amphibious vehicle-水陆两用的，两栖车辆
+analog clock-模拟时钟
+apiary, bee house-养蜂场，蜂房
+apron-围裙
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin-垃圾桶, 垃圾桶, 垃圾桶, 垃圾桶, 垃圾桶, 垃圾桶, 垃圾桶, 垃圾箱, 垃圾桶, 垃圾箱
+assault rifle, assault gun-突击步枪，突击步枪
+backpack, back pack, knapsack, packsack, rucksack, haversack-背包, 背包, 背囊, 背包, 帆布背包, 背囊
+bakery, bakeshop, bakehouse-面包店, 面包房, 面包店
+balance beam, beam-平衡木，平衡木
+balloon-气球
+ballpoint, ballpoint pen, ballpen, Biro-圆珠笔，圆珠笔，圆珠笔，局
+Band Aid-创可贴
+banjo-班卓琴
+bannister, banister, balustrade, balusters, handrail-栏杆、栏杆、栏杆、栏杆、扶手
+barbell-杠铃
+barber chair-理发椅
+barbershop-理发店
+barn-谷仓
+barometer-晴雨表
+barrel, cask-木桶，木桶
+barrow, garden cart, lawn cart, wheelbarrow-手推车, 花园车, 草坪车, 独轮车
+baseball-棒球
+basketball-篮球
+bassinet-摇篮
+bassoon-巴松管
+bathing cap, swimming cap-泳帽，游泳帽
+bath towel-浴巾
+bathtub, bathing tub, bath, tub-浴缸, 浴缸, 浴缸, 浴缸
+beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon-沙滩车, 旅行车, 旅行车, 旅行车, 沙滩车, 旅行车, 旅行车
+beacon, lighthouse, beacon light, pharos-灯塔, 灯塔, 航标灯, 灯塔
+beaker-烧杯
+bearskin, busby, shako-熊皮、巴斯比、沙科
+beer bottle-啤酒瓶
+beer glass-啤酒杯
+bell cote, bell cot-贝尔科特, 贝尔科特
+bib-围兜
+bicycle-built-for-two, tandem bicycle, tandem-双人自行车、双人自行车、双人自行车
+bikini, two-piece-比基尼, 两件式
+binder, ring-binder-活页夹，环形活页夹
+binoculars, field glasses, opera glasses-双筒望远镜、望远镜、望远镜
+birdhouse-鸟巢
+boathouse-船库
+bobsled, bobsleigh, bob-有舵雪橇, 有舵雪橇, 鲍勃
+bolo tie, bolo, bola tie, bola-是那些，是，是那些，是
+bonnet, poke bonnet-帽子，戳帽子
+bookcase-书柜
+bookshop, bookstore, bookstall-书店，书店，书摊
+bottlecap-瓶盖
+bow-弓
+bow tie, bow-tie, bowtie-领结，领结，领结
+brass, memorial tablet, plaque-黄铜、牌位、牌匾
+brassiere, bra, bandeau-胸罩, 胸罩, 抹胸
+breakwater, groin, groyne, mole, bulwark, seawall, jetty-防波堤、腹股沟、防波堤、鼹鼠、舷墙、海堤、码头
+breastplate, aegis, egis-胸甲、神盾、神盾
+broom-扫帚
+bucket, pail-桶，桶
+buckle-扣上
+bulletproof vest-防弹背心
+bullet train, bullet-子弹头列车，子弹头列车
+butcher shop, meat market-肉店、肉类市场
+cab, hack, taxi, taxicab-出租车, 黑客, 出租车, 出租车
+caldron, cauldron-大锅，大锅
+candle, taper, wax light-蜡烛，锥度，蜡灯
+cannon-大炮
+canoe-独木舟
+can opener, tin opener-开罐器，开罐器
+cardigan-开襟衫
+car mirror-汽车镜
+carousel, carrousel, merry-go-round, roundabout, whirligig-旋转木马, 旋转木马, 旋转木马, 旋转木马, 旋转木马
+carpenter's kit, tool kit-木匠工具箱，工具箱
+carton-纸盒
+car wheel-汽车车轮
+cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM-提款机、提款机、自动柜员机、自动柜员机、自动柜员机、自动柜员机、ATM
+cassette-盒式磁带
+cassette player-卡带机
+castle-城堡
+catamaran-双体船
+CD player-激光唱机
+cello, violoncello-大提琴，大提琴
+cellular telephone, cellular phone, cellphone, cell, mobile phone-移动电话, 移动电话, 手机, 手机, 移动电话
+chain-链
+chainlink fence-铁丝网围栏
+chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour-链甲、环甲、邮件、链甲、链甲、环甲、环甲
+chain saw, chainsaw-链锯，电锯
+chest-胸部
+chiffonier, commode-抽屉柜、马桶
+chime, bell, gong-编钟、钟、锣
+china cabinet, china closet-瓷器柜，瓷器衣柜
+Christmas stocking-圣诞袜
+church, church building-教堂，教堂建筑
+cinema, movie theater, movie theatre, movie house, picture palace-电影院, 电影院, 电影院, 电影院, 电影院, 电影院
+cleaver, meat cleaver, chopper-切肉刀，切肉刀，切肉刀
+cliff dwelling-悬崖住宅
+cloak-披风
+clog, geta, patten, sabot-木屐、木屐、彭定康、木底鞋
+cocktail shaker-鸡尾酒调酒器
+coffee mug-咖啡杯
+coffeepot-咖啡壶
+coil, spiral, volute, whorl, helix-线圈、螺线、蜗壳、螺纹、螺旋线
+combination lock-密码锁
+computer keyboard, keypad-电脑键盘, 小键盘
+confectionery, confectionary, candy store-糖果店, 糖果店, 糖果店
+container ship, containership, container vessel-集装箱船, 集装箱船, 集装箱船
+convertible-敞篷车
+corkscrew, bottle screw-开瓶器，瓶塞螺丝
+cornet, horn, trumpet, trump-短号, 号角, 小号, 王牌
+cowboy boot-牛仔靴
+cowboy hat, ten-gallon hat-牛仔帽、十加仑帽
+cradle-摇篮
+crane-起重机
+crash helmet-防撞头盔
+crate-箱
+crib, cot-婴儿床，婴儿床
+Crock Pot-缸罐
+croquet ball-槌球
+crutch-拐杖
+cuirass-胸甲
+dam, dike, dyke-水坝, 堤坝, 堤坝
+desk-桌子
+desktop computer-台式电脑
+dial telephone, dial phone-拨打电话，拨打电话
+diaper, nappy, napkin-尿布, 尿布, 餐巾
+digital clock-数码时钟
+digital watch-数字手表
+dining table, board-餐桌、餐板
+dishrag, dishcloth-抹布，抹布
+dishwasher, dish washer, dishwashing machine-洗碗机, 洗碗机, 洗碗机
+disk brake, disc brake-盘式制动器, 盘式制动器
+dock, dockage, docking facility-码头, 停泊处, 对接设施
+dogsled, dog sled, dog sleigh-狗拉雪橇, 狗拉雪橇, 狗拉雪橇
+dome-圆顶
+doormat, welcome mat-门垫、迎宾垫
+drilling platform, offshore rig-钻井平台、海上钻井平台
+drum, membranophone, tympan-鼓、膜琴、鼓室
+drumstick-鼓槌
+dumbbell-哑铃
+Dutch oven-荷兰烤箱
+electric fan, blower-电风扇、鼓风机
+electric guitar-电吉他
+electric locomotive-电力机车
+entertainment center-娱乐中心
+envelope-信封
+espresso maker-浓缩咖啡机
+face powder-香粉
+feather boa, boa-羽毛好，好
+file, file cabinet, filing cabinet-文件柜，文件柜，档案柜
+fireboat-消防船
+fire engine, fire truck-消防车, 消防车
+fire screen, fireguard-防火屏，防火门
+flagpole, flagstaff-旗杆，旗杆
+flute, transverse flute-长笛、横笛
+folding chair-折叠椅
+football helmet-橄榄球头盔
+forklift-叉车
+fountain-喷泉
+fountain pen-钢笔
+four-poster-四海报
+freight car-货车
+French horn, horn-圆号、圆号
+frying pan, frypan, skillet-煎锅，煎锅，煎锅
+fur coat-皮毛大衣
+garbage truck, dustcart-垃圾车、垃圾车
+gasmask, respirator, gas helmet-防毒面具, 呼吸器, 防毒头盔
+gas pump, gasoline pump, petrol pump, island dispenser-加油泵, 汽油泵, 汽油泵, 岛式加油机
+goblet-高脚杯
+go-kart-卡丁车
+golf ball-高尔夫球
+golfcart, golf cart-高尔夫球车, 高尔夫球车
+gondola-贡多拉
+gong, tam-tam-龚担担
+gown-袍
+grand piano, grand-大钢琴，大钢琴
+greenhouse, nursery, glasshouse-温室, 苗圃, 温室
+grille, radiator grille-格栅、散热器格栅
+grocery store, grocery, food market, market-杂货店, 杂货店, 食品市场, 市场
+guillotine-断头台
+hair slide-头发滑梯
+hair spray-发胶
+half track-半轨
+hammer-锤子
+hamper-阻碍
+hand blower, blow dryer, blow drier, hair dryer, hair drier-手持吹风机, 吹风机, 吹风机, 吹风机, 吹风机
+hand-held computer, hand-held microcomputer-手持电脑, 手持式微型计算机
+handkerchief, hankie, hanky, hankey-手帕，手帕，手帕，手帕，手帕
+hard disc, hard disk, fixed disk-硬盘, 硬盘, 固定盘
+harmonica, mouth organ, harp, mouth harp-口琴, 口风琴, 竖琴, 口琴
+harp-竖琴
+harvester, reaper-收割机，收割机
+hatchet-斧头
+holster-皮套
+home theater, home theatre-家庭影院, 家庭影院
+honeycomb-蜂窝
+hook, claw-钩、爪
+hoopskirt, crinoline-箍裙、衬裙
+horizontal bar, high bar-单杠、高杠
+horse cart, horse-cart-马车，马车
+hourglass-滴漏
+iPod-iPod
+iron, smoothing iron-熨斗、熨斗
+jack-o'-lantern-南瓜灯
+jean, blue jean, denim-牛仔裤, 蓝色牛仔裤, 牛仔布
+jeep, landrover-吉普车、路虎
+jersey, T-shirt, tee shirt-球衣, T 恤, T 恤
+jigsaw puzzle-拼图游戏
+jinrikisha, ricksha, rickshaw-人力车, 人力车, 人力车
+joystick-操纵杆
+kimono-和服
+knee pad-护膝
+knot-结
+lab coat, laboratory coat-实验室外套，实验室外套
+ladle-钢包
+lampshade, lamp shade-灯罩，灯罩
+laptop, laptop computer-笔记本电脑, 笔记本电脑
+lawn mower, mower-割草机，割草机
+lens cap, lens cover-镜头盖、镜头盖
+letter opener, paper knife, paperknife-开信刀、裁纸刀、裁纸刀
+library-图书馆
+lifeboat-救生艇
+lighter, light, igniter, ignitor-打火机, 灯, 点火器, 点火器
+limousine, limo-豪华轿车, 豪华轿车
+liner, ocean liner-班轮, 远洋班轮
+lipstick, lip rouge-口红、唇彩
+Loafer-浪子
+lotion-洗剂
+loudspeaker, speaker, speaker unit, loudspeaker system, speaker system-扬声器, 扬声器, 扬声器单元, 扬声器系统, 扬声器系统
+loupe, jeweler's loupe-放大镜，珠宝放大镜
+lumbermill, sawmill-伐木厂、锯木厂
+magnetic compass-磁罗盘
+mailbag, postbag-邮袋，邮袋
+mailbox, letter box-邮箱，信箱
+maillot-球衣
+maillot, tank suit-邮筒、坦克服
+manhole cover-井盖
+maraca-马拉卡
+marimba, xylophone-马林巴琴、木琴
+mask-面具
+matchstick-火柴棍
+maypole-五月柱
+maze, labyrinth-迷宫，迷宫
+measuring cup-量杯
+medicine chest, medicine cabinet-药箱，药箱
+megalith, megalithic structure-巨石, 巨石结构
+microphone, mike-麦克风, 麦克风
+microwave, microwave oven-微波炉，微波炉
+military uniform-军装
+milk can-牛奶罐
+minibus-小巴
+miniskirt, mini-迷你裙，迷你裙
+minivan-小型货车
+missile-导弹
+mitten-手套
+mixing bowl-搅拌碗
+mobile home, manufactured home-移动房屋、活动房屋
+Model T-T型
+modem-调制解调器
+monastery-修道院
+monitor-监视器
+moped-轻便摩托车
+mortar-砂浆
+mortarboard-砂浆板
+mosque-清真寺
+mosquito net-蚊帐
+motor scooter, scooter-小型摩托车、小型摩托车
+mountain bike, all-terrain bike, off-roader-山地自行车、全地形自行车、越野车
+mountain tent-山帐篷
+mouse, computer mouse-鼠标，电脑鼠标
+mousetrap-捕鼠器
+moving van-搬家车
+muzzle-枪口
+nail-指甲
+neck brace-颈托
+necklace-项链
+nipple-乳头
+notebook, notebook computer-笔记本，笔记本电脑
+obelisk-方尖碑
+oboe, hautboy, hautbois-双簧管，双簧管，双簧管
+ocarina, sweet potato-陶笛、红薯
+odometer, hodometer, mileometer, milometer-里程表, 里程表, 里程表, 里程表
+oil filter-油过滤器
+organ, pipe organ-风琴，管风琴
+oscilloscope, scope, cathode-ray oscilloscope, CRO-示波器、范围、阴极射线示波器、CRO
+overskirt-罩裙
+oxcart-牛车
+oxygen mask-氧气面罩
+packet-包
+paddle, boat paddle-船桨，船桨
+paddlewheel, paddle wheel-水轮, 明轮
+padlock-挂锁
+paintbrush-画笔
+pajama, pyjama, pj's, jammies-睡衣, 睡衣, 睡衣, 睡衣
+palace-宫
+panpipe, pandean pipe, syrinx-排箫、潘迪安管、西林克斯
+paper towel-纸巾
+parachute, chute-降落伞，降落伞
+parallel bars, bars-双杠、杠铃
+park bench-公园的长椅上
+parking meter-停车收费表
+passenger car, coach, carriage-客车, 客车, 马车
+patio, terrace-天井，露台
+pay-phone, pay-station-付费电话, 付费站
+pedestal, plinth, footstall-底座、底座、脚踏板
+pencil box, pencil case-铅笔盒，铅笔盒
+pencil sharpener-卷笔刀
+perfume, essence-香水、香精
+Petri dish-培养皿
+photocopier-复印机
+pick, plectrum, plectron-拨片、拨片、拨片
+pickelhaube-皮克尔豪伯
+picket fence, paling-栅栏、栅栏
+pickup, pickup truck-皮卡车，皮卡车
+pier-码头
+piggy bank, penny bank-存钱罐, 便士银行
+pill bottle-药瓶
+pillow-枕头
+ping-pong ball-乒乓球
+pinwheel-风车
+pirate, pirate ship-海盗, 海盗船
+pitcher, ewer-水罐，水壶
+plane, carpenter's plane, woodworking plane-刨子, 木工刨子, 木工刨子
+planetarium-天文馆
+plastic bag-塑料袋
+plate rack-盘架
+plow, plough-犁，犁
+plunger, plumber's helper-柱塞，水管工的帮手
+Polaroid camera, Polaroid Land camera-宝丽来相机、宝丽来陆地相机
+pole-极
+police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria-警车, 警车, 稻田车, 巡逻车, 货车, 黑玛丽亚
+poncho-雨披
+pool table, billiard table, snooker table-台球桌、台球桌、斯诺克台
+pop bottle, soda bottle-汽水瓶、汽水瓶
+pot, flowerpot-花盆，花盆
+potter's wheel-陶轮
+power drill-电钻
+prayer rug, prayer mat-祈祷毯，祈祷垫
+printer-打印机
+prison, prison house-监狱, 牢房
+projectile, missile-射弹，导弹
+projector-投影仪
+puck, hockey puck-冰球, 冰球
+punching bag, punch bag, punching ball, punchball-沙袋，沙袋，沙袋，沙袋，沙袋
+purse-钱包
+quill, quill pen-鹅毛笔，鹅毛笔
+quilt, comforter, comfort, puff-被子,被子,舒适,蓬松
+racer, race car, racing car-赛车手, 赛车, 赛车
+racket, racquet-球拍，球拍
+radiator-散热器
+radio, wireless-无线电、无线
+radio telescope, radio reflector-射电望远镜、射电反射镜
+rain barrel-雨桶
+recreational vehicle, RV, R.V.-休闲车、RV、R.V.
+reel-卷轴
+reflex camera-反光相机
+refrigerator, icebox-冰箱、冰柜
+remote control, remote-遥控，遥控
+restaurant, eating house, eating place, eatery-餐馆, 餐馆, 吃饭的地方, 餐馆
+revolver, six-gun, six-shooter-左轮手枪、六枪、六发手枪
+rifle-步枪
+rocking chair, rocker-摇椅，摇椅
+rotisserie-烤肉店
+rubber eraser, rubber, pencil eraser-橡皮擦，橡皮擦，铅笔擦
+rugby ball-橄榄球
+rule, ruler-规则，规则
+running shoe-跑鞋
+safe-安全的
+safety pin-安全别针
+saltshaker, salt shaker-盐瓶，盐瓶
+sandal-凉鞋
+sarong-纱笼
+sax, saxophone-萨克斯管，萨克斯管
+scabbard-刀鞘
+scale, weighing machine-秤、称重机
+school bus-校车
+schooner-大篷车
+scoreboard-记分牌
+screen, CRT screen-屏幕、CRT屏幕
+screw-拧紧
+screwdriver-螺丝刀
+seat belt, seatbelt-安全带，安全带
+sewing machine-缝纫机
+shield, buckler-盾牌，圆盾
+shoe shop, shoe-shop, shoe store-鞋店, 鞋店, 鞋店
+shoji-商事
+shopping basket-购物篮
+shopping cart-购物车
+shovel-铲
+shower cap-浴帽
+shower curtain-浴帘
+ski-滑雪
+ski mask-滑雪面罩
+sleeping bag-睡袋
+slide rule, slipstick-计算尺，滑尺
+sliding door-滑行门
+slot, one-armed bandit-槽，独臂强盗
+snorkel-通气管
+snowmobile-雪地摩托
+snowplow, snowplough-扫雪机，扫雪机
+soap dispenser-皂液器
+soccer ball-足球
+sock-短袜
+solar dish, solar collector, solar furnace-太阳能碟式太阳能集热器、太阳能炉
+sombrero-阔边帽
+soup bowl-汤碗
+space bar-空格键
+space heater-小型供暖器
+space shuttle-航天飞机
+spatula-抹刀
+speedboat-快艇
+spider web, spider's web-蜘蛛网，蜘蛛网
+spindle-主轴
+sports car, sport car-跑车, 跑车
+spotlight, spot-聚光灯，聚光灯
+stage-阶段
+steam locomotive-蒸汽机车
+steel arch bridge-钢拱桥
+steel drum-钢桶
+stethoscope-听诊器
+stole-偷
+stone wall-石墙
+stopwatch, stop watch-秒表，秒表
+stove-火炉
+strainer-过滤器
+streetcar, tram, tramcar, trolley, trolley car-有轨电车, 有轨电车, 有轨电车, 电车, 无轨电车
+stretcher-担架
+studio couch, day bed-工作室沙发、沙发床
+stupa, tope-步骤，融化
+submarine, pigboat, sub, U-boat-潜艇, 猪艇, 潜艇, U 型潜艇
+suit, suit of clothes-西装，一套衣服
+sundial-晷
+sunglass-太阳镜
+sunglasses, dark glasses, shades-太阳镜、墨镜、墨镜
+sunscreen, sunblock, sun blocker-防晒霜, 防晒霜, 防晒霜
+suspension bridge-吊桥
+swab, swob, mop-拭子，拭子，拖把
+sweatshirt-运动衫
+swimming trunks, bathing trunks-泳裤、游泳裤
+swing-摇摆
+switch, electric switch, electrical switch-开关, 电气开关, 电气开关
+syringe-注射器
+table lamp-台灯
+tank, army tank, armored combat vehicle, armoured combat vehicle-坦克, 陆军坦克, 装甲战车, 装甲战车
+tape player-磁带播放器
+teapot-茶壶
+teddy, teddy bear-泰迪熊，泰迪熊
+television, television system-电视，电视系统
+tennis ball-网球
+thatch, thatched roof-茅草，茅草屋顶
+theater curtain, theatre curtain-剧院幕布，剧院幕布
+thimble-顶针
+thresher, thrasher, threshing machine-脱粒机, 脱粒机, 脱粒机
+throne-王座
+tile roof-瓦屋顶
+toaster-烤面包机
+tobacco shop, tobacconist shop, tobacconist-烟草店, 烟草店, 烟草店
+toilet seat-马桶座圈
+torch-火炬
+totem pole-图腾场
+tow truck, tow car, wrecker-拖车、拖车、清障车
+toyshop-玩具店
+tractor-拖拉机
+trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi-拖车, 牵引车拖车, 卡车运输设备, 钻机, 铰接式卡车, 半挂车
+tray-托盘
+trench coat-风衣
+tricycle, trike, velocipede-三轮车, 三轮车, 自行车
+trimaran-三体船
+tripod-三脚架
+triumphal arch-凯旋门
+trolleybus, trolley coach, trackless trolley-无轨电车、无轨电车、无轨电车
+trombone-长号
+tub, vat-浴缸、大桶
+turnstile-十字转门
+typewriter keyboard-打字机键盘
+umbrella-伞
+unicycle, monocycle-独轮车，独轮车
+upright, upright piano-立式钢琴，立式钢琴
+vacuum, vacuum cleaner-真空吸尘器，吸尘器
+vase-花瓶
+vault-拱顶
+velvet-天鹅绒
+vending machine-售货机
+vestment-法衣
+viaduct-高架桥
+violin, fiddle-小提琴、小提琴
+volleyball-排球
+waffle iron-华夫饼熨斗
+wall clock-挂钟
+wallet, billfold, notecase, pocketbook-钱包，皮夹，笔记本，皮夹
+wardrobe, closet, press-衣柜，壁橱，压力机
+warplane, military plane-战机, 军用飞机
+washbasin, handbasin, washbowl, lavabo, wash-hand basin-洗脸盆, 洗手盆, 洗脸盆, 盥洗盆, 洗手盆
+washer, automatic washer, washing machine-洗衣机, 自动洗衣机, 洗衣机
+water bottle-水瓶
+water jug-水壶
+water tower-水塔
+whiskey jug-威士忌壶
+whistle-哨
+wig-假发
+window screen-窗纱
+window shade-窗帘
+Windsor tie-温莎领带
+wine bottle-酒瓶
+wing-翅膀
+wok-炒锅
+wooden spoon-木勺子
+wool, woolen, woollen-羊毛的，羊毛的，羊毛的
+worm fence, snake fence, snake-rail fence, Virginia fence-虫栅栏、蛇栅栏、蛇轨栅栏、弗吉尼亚栅栏
+wreck-破坏
+yawl-偏航
+yurt-蒙古包
+web site, website, internet site, site-网站、网站、互联网站、网站
+comic book-漫画书
+crossword puzzle, crossword-填字游戏，填字游戏
+street sign-街道路标
+traffic light, traffic signal, stoplight-交通信号灯, 交通信号灯, 红绿灯
+book jacket, dust cover, dust jacket, dust wrapper-书套，防尘套，防尘套，防尘包装
+menu-菜单
+plate-盘子
+guacamole-鳄梨
+consomme-消耗
+hot pot, hotpot-火锅，火锅
+trifle-琐事
+ice cream, icecream-冰淇淋，冰淇淋
+ice lolly, lolly, lollipop, popsicle-冰棒、棒棒糖、棒棒糖、棒棒糖
+French loaf-法式面包
+bagel, beigel-百吉饼，贝格尔饼
+pretzel-椒盐卷饼
+cheeseburger-芝士汉堡
+hotdog, hot dog, red hot-热狗，热狗，红热
+mashed potato-土豆泥
+head cabbage-白菜头
+broccoli-西兰花
+cauliflower-菜花
+zucchini, courgette-西葫芦、西葫芦
+spaghetti squash-意大利面南瓜
+acorn squash-橡子南瓜
+butternut squash-胡桃南瓜
+cucumber, cuke-黄瓜
+artichoke, globe artichoke-朝鲜蓟、朝鲜蓟
+bell pepper-灯笼椒
+cardoon-菜蓟
+mushroom-蘑菇
+Granny Smith-史密斯婆婆
+strawberry-草莓
+orange-橙子
+lemon-柠檬
+fig-如图
+pineapple, ananas-菠萝、凤梨
+banana-香蕉
+jackfruit, jak, jack-菠萝蜜，杰克，杰克
+custard apple-番荔枝
+pomegranate-石榴
+hay-干草
+carbonara-卡纳纳拉
+chocolate sauce, chocolate syrup-巧克力酱、巧克力糖浆
+dough-面团
+meat loaf, meatloaf-肉饼，肉饼
+pizza, pizza pie-披萨, 披萨饼
+potpie-锅饼
+burrito-墨西哥卷饼
+red wine-红葡萄酒
+espresso-浓咖啡
+cup-杯子
+eggnog-蛋酒
+alp-阿尔卑斯山
+bubble-气泡
+cliff, drop, drop-off-悬崖, 跌落, 坠落
+coral reef-珊瑚礁
+geyser-喷泉
+lakeside, lakeshore-湖边，湖岸
+promontory, headland, head, foreland-海角, 岬角, 头, 前陆
+sandbar, sand bar-沙洲, 沙洲
+seashore, coast, seacoast, sea-coast-海滨、海岸、海岸、海岸
+valley, vale-山谷，山谷
+volcano-火山
+ballplayer, baseball player-棒球运动员, 棒球运动员
+groom, bridegroom-新郎，新郎
+scuba diver-潜水员
+rapeseed-油菜籽
+daisy-雏菊
+yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum-黄色女士拖鞋、黄色女士拖鞋、Cypripedium calceolus、Cypripedium parviflorum
+corn-玉米
+acorn-橡子
+hip, rose hip, rosehip-臀部, 玫瑰果, 玫瑰果
+buckeye, horse chestnut, conker-七叶树、七叶树、七叶树
+coral fungus-珊瑚菌
+agaric-伞菌
+gyromitra-陀螺仪
+stinkhorn, carrion fungus-臭角，腐肉真菌
+earthstar-地球之星
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa-林中母鸡、林中母鸡、猪苓、灰树花
+bolete-螺栓
+ear, spike, capitulum-耳朵、穗、头
+toilet tissue, toilet paper, bathroom tissue-厕纸，厕纸，卫生纸
