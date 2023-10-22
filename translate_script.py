@@ -14,8 +14,7 @@ def translate_word(word):
         return word + '-' + trans_word
     else:
         return word
-python
-en_file = "../data/imagenet_classes.txt"
+en_file = "./data/imagenet_classes.txt"
 en_list = []
 ch_list = []
 with open(en_file) as f:
@@ -27,7 +26,7 @@ with open(en_file) as f:
         print(ch_word)
 
 # 创建文件，保存翻译后的内容
-w_file = '../data/imagenet_classes_chinese.txt'
+w_file = './data/imagenet_classes_chinese.txt'
 with open(w_file, 'w') as f:
     for w in ch_list:
         f.write(w + '\n')
